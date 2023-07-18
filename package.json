@@ -1,6 +1,6 @@
 {
   "name": "@yunflyjs/yunfly-plugin-memory-check",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Yunfly memory check plugin. If a certain threshold is exceeded, kill node service.",
   "main": "./dist/sdk/index.js",
   "typings": "dist/sdk/index.d.ts",
